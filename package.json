@@ -4,6 +4,9 @@
   "description": "decorators for reducing repetitive rxjs code",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "dependencies": {
+    "tinyqueue": "^2.0.3"
+  },
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
